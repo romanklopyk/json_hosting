@@ -1,0 +1,4 @@
+Daily mean data derived from SYNOP messages and additional measurements.
+When using data, reference to the State Institution National Antarctic Scientific Center (NASC of Ukraine) is mandatory.
+
+This data is updated manually every month.
